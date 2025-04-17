@@ -100,15 +100,10 @@ The RFM segmentation was finalized in a SQL view [RFM.sql](https://github.com/BI
 - High revenue contributions from a small percentage of customers (Pareto principle)
 - Monthly sales show seasonal patterns
 
-### 🧩 RFM Segmentation Highlights
+### 🧩 [RFM Segmentation Highlights](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/RFM%20Segmentation%20Result%20summary.pdf)
 - **Champions** contribute the most in terms of revenue and order volume
 - **Promising Customers** have potential for loyalty programs
 - **About to Sleep** and **Needs Attention** segments could be targeted for re-engagement
-
-### 📈 Output Files
-- `RFM_Table.csv`: Final table of customers with RFM scores and segments
-- `RFM Customer Segmentation.png`: Visual chart of customer segmentation
-- `Average Monetary Value.png`: Bar chart showing segment-wise average spending
 
 ---
 
