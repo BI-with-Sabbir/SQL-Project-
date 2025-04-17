@@ -63,13 +63,12 @@ The dataset consists of **2,824 records**, analyzed using **MySQL Workbench**.
 - Cleaned numeric fields for proper aggregation
 
 ### 3. 📊 Exploratory Data Analysis (EDA)
-See the SQL command: [Click here]()
 Key analyses included:
 - Descriptive statistics of sales, quantity, and order frequency
 - Trends over time
 - Identifying top customers and products
 
-**EDA Results** stored in: `EDA Summary.md`
+**EDA Results** stored in: [EDA Summary.md]((https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/Exploratory_Data_Analysis%20(EDA).sql))
 
 ### 4. 🧮 RFM Segmentation
 The RFM logic was implemented using SQL views and subqueries:
@@ -85,10 +84,10 @@ Each RFM metric was scored from 1–5 using `NTILE(5)` window functions. Scores 
 - **Needs Attention**
 - **About to Sleep**
 
-The RFM segmentation was finalized in a SQL view `RFM`.
+The RFM segmentation was finalized in a SQL view [RFM.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/RFM%20Segmentation%20in%20SQL.sql)
 
 ### 5. 📊 Visualization with Power BI
-- RFM segment performance
+- [RFM segment performance]()
 - Average monetary value per segment
 - Segment distribution and KPIs
 
@@ -121,13 +120,5 @@ This project demonstrates how SQL and Power BI can be used for customer segmenta
 - Boost sales performance through targeted campaigns
 
 ---
-
-## 👤 Author
-**Tanim**  
-[🔗 LinkedIn](https://www.linkedin.com/) • [📂 GitHub](https://github.com/) • [📧 Email](mailto:your.email@example.com)
-
----
-
-📬 _Ready to transform data into strategic customer insights!_
 
 
