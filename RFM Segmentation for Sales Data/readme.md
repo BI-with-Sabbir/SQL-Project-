@@ -87,7 +87,7 @@ Each RFM metric was scored from 1–5 using `NTILE(5)` window functions. Scores 
 The RFM segmentation was finalized in a SQL view [RFM.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/RFM%20Segmentation%20in%20SQL.sql)
 
 ### 5. 📊 Visualization with Power BI
-- [RFM segment performance]()
+- [RFM segment performance](https://app.powerbi.com/view?r=eyJrIjoiZjJkN2RjNmMtZDQ2OC00OWE1LTlhMzMtMmViMzNlYTdhNWU0IiwidCI6IjQxYjQ2M2RkLTg1ZWItNGE1NS1iYTZmLTVhMWFjYWMyYjA5YyIsImMiOjEwfQ%3D%3D)
 - Average monetary value per segment
 - Segment distribution and KPIs
 
