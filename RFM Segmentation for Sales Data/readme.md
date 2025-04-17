@@ -55,7 +55,7 @@ The dataset consists of **2,824 records**, analyzed using **MySQL Workbench**.
 ## 🚦 Project Workflow
 
 ### 1. 📥 Data Import
-- The `SAMPLE_SALES_DATA.csv` file was imported into the `rfm_sales` database using the Excel to DB Import Tool.
+- The [SAMPLE_SALES_DATA.csv](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/SAMPLE_SALES_DATA.csv) file was imported into the `rfm_sales` database using the Excel to DB Import Tool.
 
 ### 2. 🧹 Data Cleaning
 - Ensured correct date formats
