@@ -95,7 +95,7 @@ The RFM segmentation was finalized in a SQL view [RFM.sql](https://github.com/BI
 
 ## 🔍 Results & Findings
 
-### 📄 EDA Summary
+### 📄 [EDA Summary](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/EDA%20Summary%20Result.pdf)
 - Customers from North America dominate the dataset
 - High revenue contributions from a small percentage of customers (Pareto principle)
 - Monthly sales show seasonal patterns
