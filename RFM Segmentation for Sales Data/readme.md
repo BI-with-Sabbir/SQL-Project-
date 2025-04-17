@@ -68,7 +68,7 @@ Key analyses included:
 - Trends over time
 - Identifying top customers and products
 
-**EDA Results** stored in: [EDA Summary.md]((https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/Exploratory_Data_Analysis%20(EDA).sql))
+**EDA Results** stored in: [EDA Summary.md](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/RFM%20Segmentation%20for%20Sales%20Data/Exploratory_Data_Analysis%20(EDA).sql)
 
 ### 4. 🧮 RFM Segmentation
 The RFM logic was implemented using SQL views and subqueries:
