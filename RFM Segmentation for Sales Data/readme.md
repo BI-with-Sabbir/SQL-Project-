@@ -40,7 +40,7 @@ The dataset consists of **2,824 records**, analyzed using **MySQL Workbench**.
 ├── 📊 Dataset/
 │   └── SAMPLE_SALES_DATA.csv
 ├── 🧼 Data Cleaning.sql
-├── 📊 Exploratory Data Analysis (EDA).sql
+├── 📊 Exploratory Data Analysis (EDA). sql
 ├── 📈 RFM Segmentation.sql
 ├── 📄 README.md
 ├── 📁 Results & Findings/
@@ -76,7 +76,7 @@ The RFM logic was implemented using SQL views and subqueries:
 - **Frequency (F):** Number of orders per customer
 - **Monetary (M):** Total sales per customer
 
-Each RFM metric was scored from 1–5 using `NTILE(5)` window functions. Scores were concatenated and mapped to segments like:
+Each RFM metric was scored from 1 to 5 using `NTILE(5)` window functions. Scores were concatenated and mapped to segments like:
 - **Champions** (e.g., 555, 554, 545)
 - **Loyal Customers**
 - **Potential Loyalists**
