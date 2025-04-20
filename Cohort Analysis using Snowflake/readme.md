@@ -62,7 +62,7 @@ The dataset used in this project is based on the **Online Retail** transactions.
 - Filtered cancelled orders, nulls, and non-positive values
 - Created a clean table for further analysis
 
-**SQL Script:** [Data Cleaning.sql]([https://github.com/YourRepo/Data-Cleaning.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Data%20cleaning.sql))
+**SQL Script:** [Data Cleaning.sql](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/Cohort%20Analysis%20using%20Snowflake/Data%20cleaning.sql)
 
 ### 2. 📊 Exploratory Data Analysis (EDA)
 Key questions answered:
