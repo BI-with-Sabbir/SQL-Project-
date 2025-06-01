@@ -24,7 +24,7 @@ All data is retrieved directly from a shared **Google Spreadsheet**, which inclu
 
 ---
 
-## 📊 ETL Steps
+## 📊 ETL Steps [Click Here To See Python Notebook](https://github.com/BI-with-Sabbir/SQL-Project-/blob/main/BigQuery%20Integration%20ETL%20Process%20Using%20Python%20%26%20SQL/Colab_(Python)_to_BigQuery_Integration_for_Data_Scientists.ipynb)
 
 ### ✂️ Extract
 - Data is fetched directly using `pandas.read_csv()` with a converted CSV export link from Google Sheets.
