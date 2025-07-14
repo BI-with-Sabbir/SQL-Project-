@@ -1,4 +1,5 @@
 # 📊 Customer RFM Segmentation Portfolio Project
+<img width="521" height="146" alt="Untitled Diagram drawio (3)" src="https://github.com/user-attachments/assets/43f1cfee-d328-41ce-89f0-f3e4d13f1e8b" />
 
 This project focuses on segmenting customers using **RFM (Recency, Frequency, Monetary)** analysis to better understand purchasing behavior and support data-driven marketing strategies. It uses SQL for data processing and Power BI for visualization, based on the `SAMPLE_SALES_DATA.csv` dataset.
 
