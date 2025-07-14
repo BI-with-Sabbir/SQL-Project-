@@ -115,6 +115,7 @@ The dataset used in this project is based on the **Online Retail** transactions.
 ## 📊 EXCEL Dashboard
 
 **Visualized Insights:**
+<img width="1305" height="813" alt="image" src="https://github.com/user-attachments/assets/3d10ea1d-56cc-4e86-8780-c3c6d588a474" />
 
 * Retention heatmap by cohort
 * CLV growth across months
@@ -127,11 +128,13 @@ The dataset used in this project is based on the **Online Retail** transactions.
 ## 🔍 Results & Findings
 
 ### 🔁 Retention Analysis
+<img width="1242" height="741" alt="image" src="https://github.com/user-attachments/assets/13fd6530-3e21-423c-a5b5-db8f504d0fbd" />
 
 * High drop-off after first month
 * Few cohorts retained beyond 4 months
 
 ### 💰 CLV Analysis
+<img width="1244" height="380" alt="image" src="https://github.com/user-attachments/assets/1477d15f-8e3c-413a-a704-2815b755efc3" />
 
 * Early cohorts show higher LTV
 * Strong retention drives long-term revenue
