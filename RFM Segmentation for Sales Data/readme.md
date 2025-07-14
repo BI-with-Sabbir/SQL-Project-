@@ -8,14 +8,14 @@ This project focuses on segmenting customers using **RFM (Recency, Frequency, Mo
 
 Click on a section to jump directly:
 
-* [📁 Project Overview](#project-overview)
-* [🧰 Tools & Technologies](#tools--technologies)
-* [📃 Database Details](#database-details)
-* [📂 File Structure](#file-structure)
-* [🚦 Project Workflow](#project-workflow)
-* [📊 Visualization with Power BI](#visualization-with-power-bi)
-* [🔍 Results & Findings](#results--findings)
-* [📌 Conclusion](#conclusion)
+* [📁 Project Overview](#-project-overview)
+* [🧰 Tools & Technologies](#-tools--technologies)
+* [📃 Database Details](#-database-details)
+* [📂 File Structure](#-file-structure)
+* [🚦 Project Workflow](#-project-workflow)
+* [📊 Visualization with Power BI](#-visualization-with-power-bi)
+* [🔍 Results & Findings](#-results--findings)
+* [📌 Conclusion](#-conclusion)
 
 ---
 
