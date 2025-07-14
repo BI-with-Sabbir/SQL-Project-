@@ -1,4 +1,6 @@
 # 📊 Customer RFM Segmentation Portfolio Project
+<img width="692" height="171" alt="Untitled Diagram drawio (6)" src="https://github.com/user-attachments/assets/85c85810-fd73-42ac-b379-504d4d577641" />
+
 
 This project focuses on analyzing customer behavior using **Cohort Analysis** and calculating **Customer Lifetime Value (CLV)** to drive strategic decision-making. It uses SQL in Snowflake for data processing and Excel.csv for Output data visualizations.
 
