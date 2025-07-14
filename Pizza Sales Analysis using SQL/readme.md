@@ -1,4 +1,5 @@
 # 🍕 Pizza Sales Analysis using SQL
+<img width="591" height="221" alt="Untitled Diagram drawio (5)" src="https://github.com/user-attachments/assets/4b869770-a63a-4f20-85ea-245452ba04f4" />
 
 ## 🔗 Context Navigation
 
