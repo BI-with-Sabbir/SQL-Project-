@@ -6,19 +6,19 @@ This project focuses on analyzing customer behavior using **Cohort Analysis** an
 
 ## 📂 Table of Contents
 
-* [📁 Project Overview](#project-overview)
-* [🪰 Tools & Technologies](#tools--technologies)
-* [📃 Database Details](#database-details)
-* [📂 File Structure](#file-structure)
-* [🚦 Project Workflow](#project-workflow)
+* [📁 Project Overview](#-project-overview)
+* [🪰 Tools & Technologies](#-tools--technologies)
+* [📃 Database Details](#-database-details)
+* [📂 File Structure](#-file-structure)
+* [🚦 Project Workflow](#-project-workflow)
 
-  * [🪜 Data Cleaning](#data-cleaning)
-  * [📊 Exploratory Data Analysis](#exploratory-data-analysis)
-  * [👥 Cohort Analysis](#cohort-analysis)
-  * [💸 Customer Lifetime Value](#customer-lifetime-value)
-* [📈 EXCEL Dashboard](#excel-dashboard)
-* [🔍 Results & Findings](#results--findings)
-* [📀 Conclusion](#conclusion)
+  * [🪜 Data Cleaning](#-data-cleaning)
+  * [📊 Exploratory Data Analysis](#-exploratory-data-analysis)
+  * [👥 Cohort Analysis](#-cohort-analysis)
+  * [💸 Customer Lifetime Value](#-customer-lifetime-value)
+* [📈 EXCEL Dashboard](#-excel-dashboard)
+* [🔍 Results & Findings](#-results--findings)
+* [📀 Conclusion](#-conclusion)
 
 ---
 
