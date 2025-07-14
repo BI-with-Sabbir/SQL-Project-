@@ -112,6 +112,7 @@ Each RFM metric was scored from 1 to 5 using `NTILE(5)` window functions. Scores
 ---
 
 ## 📊 Visualization with Power BI
+<img width="1277" height="720" alt="image" src="https://github.com/user-attachments/assets/8fddeef9-ff97-4bb8-8b1e-7a85308bede5" />
 
 * [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjJkN2RjNmMtZDQ2OC00OWE1LTlhMzMtMmViMzNlYTdhNWU0IiwidCI6IjQxYjQ2M2RkLTg1ZWItNGE1NS1iYTZmLTVhMWFjYWMyYjA5YyIsImMiOjEwfQ%3D%3D)
 * RFM segment performance
