@@ -1,4 +1,6 @@
 # 🐍 Python to BigQuery ETL Pipeline Project
+<img width="1094" height="537" alt="image" src="https://github.com/user-attachments/assets/b72445a2-e5c4-46ee-b6bf-66f5bd51f258" />
+
 
 ## 📑 Table of Contents
 
